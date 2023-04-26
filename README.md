@@ -6,7 +6,7 @@ Agência de viagens.
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 HTML + CSS + JavaScript
 
 ## ✒️ Autor
